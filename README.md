@@ -1,3 +1,3 @@
-# blog_app
+# Blog application.
 
-###My first, simple project on Django framework.
+### My first, simple project on Django framework.
